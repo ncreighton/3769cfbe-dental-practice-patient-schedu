@@ -33,6 +33,7 @@ A WordPress plugin for dental offices and multi-location dental groups managing 
 Initial release.
 
 
+
 ---
 
 ## Free vs Pro
@@ -53,5 +54,9 @@ Initial release.
 
 Get the full version with all premium features, priority support, and lifetime updates.
 
-**[Get Pro Version](https://wizardsmith2.gumroad.com/l/nmtvky)**
+**[Get Pro Version](https://buy.stripe.com/7sY7sLcLle2MaNOgUccZa0X)**
+
+- [Buy Now (Stripe)](https://buy.stripe.com/7sY7sLcLle2MaNOgUccZa0X)
+- [Buy on Gumroad](https://wizardsmith2.gumroad.com/l/nmtvky)
+- [Buy on Whop](https://whop.com/dental-practice-patient-scheduling-and-treatment-plan-wordpress-plugin)
 
